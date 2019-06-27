@@ -19,9 +19,3 @@ To download pygame, just use the pip tool:</br>
 python3 -m pip install -U pygame --user</br>
 Enter the game using “Galaxy Defender.py”,then you can enjoy your time.
 
-
-Author
----
-The name of our team: BLANK</br>
-Members of our team: </br>
-Jingzi Yuan, Ruoyu Cui and Chang Liu.</br>
